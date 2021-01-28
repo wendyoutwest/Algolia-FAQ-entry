@@ -28,16 +28,24 @@ Elastic Search can cover all ranges of applications and large expanses of data i
 #### Use Algolia when
 
 * You need your search engine distributed quickly
+
 * You need your search to work across regions
+
 * You want your search to be customized for your data
+
 * You need a search that is guaranteed to be fast
+
 * You don't have a large team to work on your search engine
 
 
 #### Use Elastic when
 
 * You need your search engine to focus on large amounts of documents at one time
+
 * You need your search to collect data for a transaction log
+
 * You need your search to run specific inquiries
+
 * You need your search to run complex groups of data
+
 * You have the available personnel to maintain your search engine
