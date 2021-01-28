@@ -1,5 +1,5 @@
 # Algolia Ranking vs. ElasticSearch Ranking
-Algolia has a special ranking method, and with it, your Algolia search engine can be up and running on your website very quickly..
+Algolia has a special ranking method, and with it, your Algolia search engine can be up and running on your website very quickly.
 
 
 
@@ -17,7 +17,7 @@ Algolia reuses this data for future searches to better the overall search experi
 ## Elastic Ranking - tf-idf approach
 The tf-idf approach focuses on searching documents.
 
-Elastic Search is defined by frequency. Depending on how often a search term appears in a result, the terms’ relevancy is determined. A tf-idf approach ranks a terms’ significance based on the number of times it appears, which determines the importance of that term. The importance is also measured against the number of documents in which a term appears in order to note which terms appear more frequently in general.
+Elastic Search is defined by frequency. Depending on how often a search term appears in a result, the term's relevancy is determined. A tf-idf approach ranks a term's significance based on the number of times it appears, which determines the importance of that term. The importance is also measured against the number of documents in which a term appears in order to note which terms appear more frequently in general.
 
 Elastic Search can cover all ranges of applications and large expanses of data including worldwide connections. A lot of engineering power is needed to create a successful Elastic Search experience.
 
@@ -28,25 +28,16 @@ Elastic Search can cover all ranges of applications and large expanses of data i
 #### Use Algolia when
 
 * You need your search engine distributed quickly
-
 * You need your search to work across regions
-
 * You want your search to be customized for your data
-
 * You need a search that is guaranteed to be fast
-
 * You don't have a large team to work on your search engine
 
 
 #### Use Elastic when
 
 * You need your search engine to focus on large amounts of documents at one time
-
 * You need your search to collect data for a transaction log
-
 * You need your search to run specific inquiries
-
 * You need your search to run complex groups of data
-
 * You have the available personnel to maintain your search engine
-
